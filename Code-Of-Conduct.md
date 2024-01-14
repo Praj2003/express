@@ -1,5 +1,7 @@
 # Contributor Covenant Code of Conduct
 
+Hello world
+
 As a member of the Open JS Foundation, Express has adopted the
 [Contributor Covenant 2.0][cc-20-doc].
 
